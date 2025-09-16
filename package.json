@@ -1,7 +1,7 @@
 {
   "name": "pallet-visualizer-i18n",
   "version": "1.0.0",
-  "main": "index.jsx",
+ 
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
